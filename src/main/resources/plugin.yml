@@ -1,0 +1,7 @@
+name: 'FairPVP'
+version: '1.0-SNAPSHOT'
+description: 'Make PvP more fair with Deep Machine Learning AI Blockchains'
+author: 'Asineth'
+website: 'https://asineth.gq'
+api-version: '1.16'
+main: 'gq.asineth.fairpvp.Plugin'
