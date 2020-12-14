@@ -1,6 +1,6 @@
 # FairPVP
 
-Make PvP more fair with Deep Machine Learning AI Blockchains
+Make PvP more fair with Deep Machine Learning AI Blockchains /s
 
 ## Building
 
